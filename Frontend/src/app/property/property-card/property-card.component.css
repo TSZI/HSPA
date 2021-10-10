@@ -1,0 +1,8 @@
+.card__base {
+  width: 18rem;
+}
+
+.card__img {
+  max-height: 250px;
+  object-fit: contain;
+}
